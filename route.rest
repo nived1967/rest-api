@@ -1,0 +1,11 @@
+GET http://localhost:3000/scoreboard
+
+###
+
+POST http://localhost:3000/scoreboard
+Content-Type: application/json
+
+{
+      "name": "Team A",
+      "score": 237
+}
