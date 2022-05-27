@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/server.js -p $PORT"
   },
   "engines":{
     "node":"16.15.0",
