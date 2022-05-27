@@ -8,7 +8,8 @@
     "start": "node src/server.js"
   },
   "engines":{
-    "node":"16.15.0"
+    "node":"16.15.0",
+    "npm":"8.9.0"
   },
   "author": "",
   "license": "ISC",
